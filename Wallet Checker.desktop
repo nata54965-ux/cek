@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Wallet Checker
+Comment=Проверка адресов
+Terminal=false
+Icon=utilities-terminal
+Exec="/home/ihor/Рабочий стол/wallet-checker-ubuntu/wallet-checker/.venv/bin/python" "/home/ihor/Рабочий стол/wallet-checker-ubuntu/wallet-checker/Start.py"
